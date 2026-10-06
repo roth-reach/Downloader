@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "T8M5F8Uv6pA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Downloads\\TelegramDownloader\\TelegramDownloader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\telegram.bot\\22.10.3.2\\telegram.bot.22.10.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}
